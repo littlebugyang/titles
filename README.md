@@ -5,8 +5,8 @@
 
 # 领域(Domains)
 
-- [互联网(The Internet)](https://github.com/littlebugyang/titles/internet.md)
-- [日常生活(Real Life)](https://github.com/littlebugyang/titles/reallife.md)
+- [互联网(The Internet)](https://github.com/littlebugyang/titles/blob/master/internet.md)
+- [日常生活(Real Life)](https://github.com/littlebugyang/titles/blob/master/reallife.md)
 
 
 
